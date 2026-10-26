@@ -12,7 +12,7 @@ Briefly summarize The Gaming Room client and their software requirements. Who wa
 
 What did you do particularly well in developing this documentation?
 
-\-iguring out the UML documentation was my strongest area, as I was able to understand the different connections the graph had. 
+\-Figuring out the UML documentation was my strongest area, as I was able to understand the different connections the graph had. 
 
 
 
@@ -24,7 +24,7 @@ What about the process of working through a design document did you find helpful
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-\-ould revise one part, I would revise the Evaluation, I think I had a high bias towards Windows that I should have discarded. 
+\-Could revise one part, I would revise the Evaluation, I think I had a high bias towards Windows that I should have discarded. 
 
 
 
